@@ -1,0 +1,58 @@
+﻿  Proyecto.cpp
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(88,22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(493,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(502,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(503,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(504,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(505,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(506,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(507,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(508,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(539,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(568,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1149,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1151,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1157,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1159,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1165,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1167,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1181,13): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1183,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1189,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1191,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1197,14): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1199,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1205,14): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1207,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1222,14): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1224,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1231,14): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1233,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1239,14): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1241,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1269,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1270,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1274,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1275,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1277,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1278,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\Computación gráfica\Laboratorio\Laboratorio\Proyecto.cpp(1286,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_thread.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(osmesa_context.obj)' o en 'D:\Documentos\Computación gráfica\Laboratorio\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Laboratorio.vcxproj -> D:\Documentos\Computación gráfica\Laboratorio\Debug\Laboratorio.exe

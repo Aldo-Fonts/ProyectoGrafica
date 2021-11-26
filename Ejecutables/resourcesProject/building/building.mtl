@@ -1,0 +1,413 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.11.2021 17:17:41
+
+newmtl Material__31
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8627 0.8627 0.8627
+	Kd 0.8627 0.8627 0.8627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Scifi_Panel5_512_albedo.png
+	map_Kd TexturesCom_Scifi_Panel5_512_albedo.png
+	map_Ke TexturesCom_Scifi_Panel5_512_emissive.png
+	map_refl TexturesCom_Scifi_Panel5_512_roughness.png
+	map_bump Map__35_Normal Bump.tga
+
+newmtl Material__30
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Scifi_Panel_512_albedo.png
+	map_Kd TexturesCom_Scifi_Panel_512_albedo.png
+	map_refl TexturesCom_Pavement_ConcreteSidewalk6_2x2_512_roughness.png
+	map_bump Map__31_Normal Bump.tga
+
+newmtl Metal_column2
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Metal_Plate_017_basecolor.jpg
+	map_Kd Metal_Plate_017_basecolor.jpg
+	map_refl Metal_Plate_017_roughness.jpg
+	map_bump Map__59_Normal Bump.tga
+
+newmtl Material__29
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Metal_AluminumBrushed_512_albedo.png
+	map_Kd TexturesCom_Metal_AluminumBrushed_512_albedo.png
+	map_refl TexturesCom_Metal_AluminumBrushed_512_roughness.png
+	map_bump Map__25_Normal Bump.tga
+
+newmtl Material__226
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Scifi_Floor2_512_albedo.png
+	map_Kd TexturesCom_Scifi_Floor2_512_albedo.png
+	map_refl TexturesCom_Scifi_Floor2_512_roughness.png
+	map_bump Map__66_Normal Bump.tga
+
+newmtl Ramp
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Scifi_Floor4_512_albedo.png
+	map_Kd TexturesCom_Scifi_Floor4_512_albedo.png
+	map_refl TexturesCom_Scifi_Floor4_512_roughness.png
+	map_bump Map__63_Normal Bump.tga
+
+newmtl Metal_column
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Scifi_Floor_512_ao.png
+	map_Kd TexturesCom_Scifi_Floor_512_ao.png
+	map_refl TexturesCom_Scifi_Floor_512_roughness.png
+	map_bump Map__52_Normal Bump.tga
+
+newmtl Material__5
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Pavement_ConcreteSidewalk6_2x2_512_albedo.png
+	map_Kd TexturesCom_Pavement_ConcreteSidewalk6_2x2_512_albedo.png
+	map_refl TexturesCom_Pavement_ConcreteSidewalk6_2x2_512_roughness.png
+	map_bump Map__17_Normal Bump.tga
+
+newmtl MetalFloorPlants
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Metal_AluminumBrushed2_512_albedo.png
+	map_Kd TexturesCom_Metal_AluminumBrushed2_512_albedo.png
+	map_Ks TexturesCom_Metal_AluminumBrushed2_512_metallic.png
+	map_refl TexturesCom_Metal_AluminumBrushed2_512_roughness.png
+	map_bump Map__10_Normal Bump.tga
+
+newmtl Ground
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Ground_PineNeedles_2x2_512_albedo.png
+	map_Kd TexturesCom_Ground_PineNeedles_2x2_512_albedo.png
+	map_refl TexturesCom_Ground_PineNeedles_2x2_512_roughness.png
+	map_bump Map__6_Normal Bump.tga
+
+newmtl Floor
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Wood_ParquetStrip9_512_albedo.png
+	map_Kd TexturesCom_Wood_ParquetStrip9_512_albedo.png
+	map_refl TexturesCom_Wood_ParquetStrip9_512_roughness.png
+	map_bump Map__2_Normal Bump.tga
+
+newmtl Plant
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka tropical__plant_AlbedoTransparency.png
+	map_Kd tropical__plant_AlbedoTransparency.png
+	map_refl tropical__plant_roughness.png
+
+newmtl grass
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka grasspng.png
+	map_Kd grasspng.png
+
+newmtl Plants
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka okdmY_2K_Albedo.jpeg
+	map_Kd okdmY_2K_Albedo.jpeg
+	map_d okdmY_2K_Opacity.jpeg
+
+newmtl Flower
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka TexturesCom_Flower_Chamomile_albedo.jpeg
+	map_Kd TexturesCom_Flower_Chamomile_albedo.jpeg
+	map_d TexturesCom_Flower_Chamomile_alpha.jpeg
+	map_bump -bm 0.3000 Map__77_Normal Bump.tga
+
+newmtl Generator
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka energy_pump_BaseColor.png
+	map_Kd energy_pump_BaseColor.png
+	map_Ke energy_pump_EmissiveColor.png
+	map_refl energy_pump_Roughness.png
+	map_bump Map__81_Normal Bump.tga
+
+newmtl Desk
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka col_all.png
+	map_Kd col_all.png
+
+newmtl Material__288
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Navona_stone_SF.jpeg
+	map_Kd Navona_stone_SF.jpeg
+	map_refl Navona_stoneQ_B.png
+
+newmtl Material__290
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Legno_HQ.jpeg
+	map_Kd Legno_HQ.jpeg
+
+newmtl Material__292
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka white.png
+	map_Kd white.png
+
+newmtl Material__289
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Navona_stone_SF.jpeg
+	map_Kd Navona_stone_SF.jpeg
+	map_refl Navona_stoneQ_B.png
+
+newmtl Material__294
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Material_003_albedo.jpeg
+	map_Kd Material_003_albedo.jpeg
+
+newmtl Material__293
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Material_002_albedo.jpeg
+	map_Kd Material_002_albedo.jpeg
+
+newmtl ammo_Material__32
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka B_Energy_Base_Color.png
+	map_Kd B_Energy_Base_Color.png
+
+newmtl ammo_Material__31
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka B_Heavy_Base_Color.png
+	map_Kd B_Heavy_Base_Color.png
+
+newmtl ammo_Material__30
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BC_Mat_Base_Color.png
+	map_Kd BC_Mat_Base_Color.png
+
+newmtl ammo_Material__29
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka BC_Mat_H_Base_Color.png
+	map_Kd BC_Mat_H_Base_Color.png
