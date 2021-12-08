@@ -716,6 +716,12 @@ int main()
 	Model psyduckPD("resourcesProject/psyduck/patitaD.obj");
 	Model psyduckPI("resourcesProject/psyduck/patitaI.obj");
 	Model psyduckQ("resourcesProject/psyduck/question.obj");
+	Model DeathBox("resourcesProject/DeathBox/DeathBox.obj");
+	Model Respawn("resourcesProject/Respawn/Respawn.obj");
+	Model DOC("resourcesProject/doc/doc.obj");
+	Model Nessys("resourcesProject/Nessy/Nessys.obj");
+	Model PokeBalls("resourcesProject/PokeBalls/PokeBalls.obj");
+	Model Pallet("resourcesProject/Pallet/Pallet.obj");
 
 	// Inicialización de KeyFrames
 	for (int i = 0; i < MAX_FRAMES; i++)
@@ -878,7 +884,7 @@ int main()
 		staticShader.setMat4("model", model);
 		piso.Draw(staticShader);
 		
-		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, -1.5, 0.0f)); //Con escala 49.75; Sin escala 18.85; Radio de 34.5 unidades
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, -1.5, 0.0f)); 
 		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		tmp2 = model;
 		staticShader.setMat4("model", model);
@@ -920,6 +926,46 @@ int main()
 		model = glm::scale(model, glm::vec3(0.5f));
 		staticShader.setMat4("model", model);
 		pilita.Draw(staticShader);
+		// -------------------------------------------------------------------------------------------------------------------------
+		// DOC
+		// -------------------------------------------------------------------------------------------------------------------------
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(25.0f, -1.5f, -25.0f));
+		model = glm::rotate(model, glm::radians(-45.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		staticShader.setMat4("model", model);
+		DOC.Draw(staticShader);
+		// -------------------------------------------------------------------------------------------------------------------------
+		// Death Box
+		// -------------------------------------------------------------------------------------------------------------------------
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, -1.5f, 0.0f));
+		staticShader.setMat4("model", model);
+		DeathBox.Draw(staticShader);
+		// -------------------------------------------------------------------------------------------------------------------------
+		// Nessy
+		// -------------------------------------------------------------------------------------------------------------------------
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, -1.5f, 0.0f));
+		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		staticShader.setMat4("model", model);
+		Nessys.Draw(staticShader);
+		// -------------------------------------------------------------------------------------------------------------------------
+		// PokeBalls
+		// -------------------------------------------------------------------------------------------------------------------------
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, -1.5f, 0.0f));
+		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		staticShader.setMat4("model", model);
+		PokeBalls.Draw(staticShader);
+		// -------------------------------------------------------------------------------------------------------------------------
+		// Pallet
+		// -------------------------------------------------------------------------------------------------------------------------
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, -1.5f, 0.0f));
+		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		staticShader.setMat4("model", model);
+		Pallet.Draw(staticShader);
+		// -------------------------------------------------------------------------------------------------------------------------
+		// Respawn
+		// -------------------------------------------------------------------------------------------------------------------------
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(-90.0f, -1.5f, 90.0f));
+		staticShader.setMat4("model", model);
+		Respawn.Draw(staticShader);
 		// -------------------------------------------------------------------------------------------------------------------------
 		// Supplie
 		// -------------------------------------------------------------------------------------------------------------------------

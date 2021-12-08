@@ -1,7 +1,7 @@
 #version 330 core
 out vec4 FragColor;
 // Para agregar más fuentes de luz, cambiar el siguiente número, se deben de agregar las luces en el programa principal, sino habrá cosas raras
-#define NUMBER 4
+#define NUMBER 1
 
 in vec3 FragPos;
 in vec3 Normal;
